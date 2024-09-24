@@ -1,0 +1,19 @@
+body {
+  background-image: url("assets/pics/qur2an.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  margin: 0;
+  /* display: flex; */
+  justify-content: center;
+}
+
+div{
+    color: hsl(20, 65%, 45%);
+    justify-content: center;
+    display: block;
+    margin-top: 300px;
+    font-size: 150px;
+    font-family: sans-serif;
+}
